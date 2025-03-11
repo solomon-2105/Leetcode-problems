@@ -12,4 +12,12 @@ If you have any suggestions or optimizations, feel free to share! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/solomon-2105/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/solomon-2105/DSA/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
