@@ -20,4 +20,12 @@ If you have any suggestions or optimizations, feel free to share! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/solomon-2105/DSA/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/solomon-2105/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
