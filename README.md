@@ -8,6 +8,7 @@
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,12 +50,19 @@
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/solomon-2105/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/solomon-2105/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
