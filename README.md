@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/solomon-2105/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
