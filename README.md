@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/solomon-2105/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/solomon-2105/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/solomon-2105/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/solomon-2105/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
