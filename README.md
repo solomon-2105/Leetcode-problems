@@ -12,6 +12,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/solomon-2105/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/solomon-2105/DSA/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/solomon-2105/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
