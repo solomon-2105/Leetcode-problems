@@ -15,6 +15,7 @@
 | [0058-length-of-last-word](https://github.com/solomon-2105/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/solomon-2105/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/solomon-2105/DSA/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -46,8 +47,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/solomon-2105/DSA/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/solomon-2105/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
