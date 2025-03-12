@@ -23,6 +23,7 @@
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
