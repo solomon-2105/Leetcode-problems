@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
 | ------- |
