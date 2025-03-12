@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string res="";
-        for(char si:s){
-            if(isalnum(si)){
-                res+=tolower(si);
-            }
-        }
-        int n=res.size();
-        return checkPalindrome(0,res,n);
-    }
+        int left = 0, right = s.size() - 1;
 
-    bool checkPalindrome(int i,string &res , int n){
-        if(i>=n/2) return true;
-        if(res[i]!=res[n-i-1]) return false;
-        return checkPalindrome(i+1, res, n);
+        while (left < right) {
+            while (left < right && !isalnum(s[left])) left++;
+
+            while (left < right && !isalnum(s[right])) right--;
+
+            if (tolower(s[left]) != tolower(s[right])) return false;
+
+            left++;
+            right--;
+        }
+
+        return true;
     }
 };
