@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
