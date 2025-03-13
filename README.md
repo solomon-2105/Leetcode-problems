@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0344-reverse-string](https://github.com/solomon-2105/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/solomon-2105/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
