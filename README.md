@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/solomon-2105/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
