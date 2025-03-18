@@ -14,6 +14,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/solomon-2105/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/solomon-2105/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,4 +114,5 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
