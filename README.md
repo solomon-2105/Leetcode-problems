@@ -47,6 +47,7 @@
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/solomon-2105/DSA/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
