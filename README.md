@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 ## Recursion
@@ -115,4 +117,8 @@
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
