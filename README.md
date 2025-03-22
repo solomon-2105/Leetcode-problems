@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/solomon-2105/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -42,12 +43,14 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/solomon-2105/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -170,4 +174,8 @@
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/DSA/tree/master/2793-count-the-number-of-complete-components) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
