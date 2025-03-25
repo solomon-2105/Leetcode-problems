@@ -22,6 +22,7 @@
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/solomon-2105/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/solomon-2105/DSA/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3430-count-days-without-meetings](https://github.com/solomon-2105/DSA/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
