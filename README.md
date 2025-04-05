@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/solomon-2105/DSA/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
