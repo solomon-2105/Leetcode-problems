@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/solomon-2105/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
@@ -56,6 +57,7 @@
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/solomon-2105/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
