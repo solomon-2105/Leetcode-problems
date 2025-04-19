@@ -23,6 +23,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/solomon-2105/DSA/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/solomon-2105/DSA/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -34,6 +35,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/solomon-2105/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2665-minimum-time-to-repair-cars](https://github.com/solomon-2105/DSA/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0344-reverse-string](https://github.com/solomon-2105/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/solomon-2105/DSA/tree/master/0941-sort-array-by-parity) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | [0941-sort-array-by-parity](https://github.com/solomon-2105/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3430-count-days-without-meetings](https://github.com/solomon-2105/DSA/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
