@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/solomon-2105/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/solomon-2105/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/solomon-2105/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
@@ -213,5 +215,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
