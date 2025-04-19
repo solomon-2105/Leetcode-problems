@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/solomon-2105/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/solomon-2105/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solomon-2105/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,6 +97,7 @@
 | [0001-two-sum](https://github.com/solomon-2105/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solomon-2105/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/solomon-2105/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/solomon-2105/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solomon-2105/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solomon-2105/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/solomon-2105/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
