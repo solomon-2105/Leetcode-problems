@@ -26,6 +26,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/solomon-2105/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/DSA/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/solomon-2105/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
