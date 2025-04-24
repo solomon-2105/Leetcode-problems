@@ -24,4 +24,13 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
