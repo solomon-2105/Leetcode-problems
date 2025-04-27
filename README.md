@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/solomon-2105/DSA/tree/master/0238-product-of-array-except-self) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/solomon-2105/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Prefix Sum
 |  |
 | ------- |
