@@ -13,5 +13,14 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/solomon-2105/DSA/tree/master/2383-add-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
