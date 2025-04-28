@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/solomon-2105/DSA/tree/master/0238-product-of-array-except-self) |
+| [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/solomon-2105/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/solomon-2105/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Prefix Sum
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
+| [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
