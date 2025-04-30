@@ -24,6 +24,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/solomon-2105/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/solomon-2105/DSA/tree/master/2383-add-two-integers) |
 ## Hash Table
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
