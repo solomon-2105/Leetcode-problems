@@ -42,6 +42,7 @@
 | [0008-string-to-integer-atoi](https://github.com/solomon-2105/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/solomon-2105/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
+| [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
+| [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/solomon-2105/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
