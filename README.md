@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/solomon-2105/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/solomon-2105/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/solomon-2105/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +59,9 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/solomon-2105/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/solomon-2105/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
