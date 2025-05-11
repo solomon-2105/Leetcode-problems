@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
