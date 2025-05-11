@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@
 | [0027-remove-element](https://github.com/solomon-2105/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
