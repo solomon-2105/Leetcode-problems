@@ -7,6 +7,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/solomon-2105/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/solomon-2105/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/solomon-2105/DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/solomon-2105/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
