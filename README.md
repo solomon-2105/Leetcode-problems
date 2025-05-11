@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 ## Greedy
 |  |
 | ------- |
