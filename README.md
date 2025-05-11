@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/solomon-2105/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/solomon-2105/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -57,11 +58,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/solomon-2105/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomon-2105/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -78,8 +81,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
