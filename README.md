@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/solomon-2105/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomon-2105/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomon-2105/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/solomon-2105/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/solomon-2105/DSA/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
