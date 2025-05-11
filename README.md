@@ -22,6 +22,7 @@
 | [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/solomon-2105/DSA/tree/master/0152-maximum-product-subarray) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/solomon-2105/DSA/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
