@@ -27,6 +27,7 @@
 | [0012-integer-to-roman](https://github.com/solomon-2105/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/solomon-2105/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/solomon-2105/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
