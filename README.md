@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/solomon-2105/DSA/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
