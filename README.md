@@ -76,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
