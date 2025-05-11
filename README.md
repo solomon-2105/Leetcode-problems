@@ -40,6 +40,7 @@
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/solomon-2105/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/solomon-2105/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
