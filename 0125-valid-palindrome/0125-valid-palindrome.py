@@ -1,14 +1,16 @@
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        left=0
-        right=len(s)-1
-        while left<right:
-            while left<right and not s[left].isalnum():
-                left+=1
-            while left<right and not s[right].isalnum():
-                right-=1
-            if s[left].lower()!=s[right].lower():
-                return False
-            left+=1
-            right-=1
-        return True
+    def isPalindrome(self, s):
+        res = ""
+        for ch in s:
+            if ch.isalnum():
+                res += ch.lower()
+        
+        n = len(res)
+        return self.checkPalindrome(0, res, n)
+
+    def checkPalindrome(self, i, res, n):
+        if i >= n // 2:
+            return True
+        if res[i] != res[n - i - 1]:
+            return False
+        return self.checkPalindrome(i + 1, res, n)
