@@ -73,6 +73,7 @@
 | [0032-longest-valid-parentheses](https://github.com/solomon-2105/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/solomon-2105/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0050-powx-n](https://github.com/solomon-2105/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
