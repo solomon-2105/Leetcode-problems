@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
