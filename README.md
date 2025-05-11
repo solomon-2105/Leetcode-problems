@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/solomon-2105/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/solomon-2105/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/solomon-2105/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0066-plus-one](https://github.com/solomon-2105/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/solomon-2105/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/solomon-2105/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
