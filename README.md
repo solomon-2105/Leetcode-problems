@@ -23,6 +23,7 @@
 | [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/solomon-2105/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/solomon-2105/DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [0012-integer-to-roman](https://github.com/solomon-2105/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomon-2105/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/solomon-2105/DSA/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomon-2105/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/solomon-2105/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,8 +147,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/solomon-2105/DSA/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
