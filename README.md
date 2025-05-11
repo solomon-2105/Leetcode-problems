@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/solomon-2105/DSA/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
