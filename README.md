@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/solomon-2105/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
