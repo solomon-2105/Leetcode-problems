@@ -33,6 +33,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/solomon-2105/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/solomon-2105/DSA/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0231-power-of-two](https://github.com/solomon-2105/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/solomon-2105/DSA/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/solomon-2105/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
