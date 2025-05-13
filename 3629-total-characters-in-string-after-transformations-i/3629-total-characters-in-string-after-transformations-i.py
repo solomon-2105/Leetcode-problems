@@ -1,12 +1,24 @@
-class Solution:
-    def lengthAfterTransformations(self, s: str, t: int) -> int:
-        MOD=10**9+7
-        dp=[[0]*26 for _ in range(t+1)]
-        for c in range(26):dp[0][c]=1
-        for k in range(1,t+1):
-            for c in range(25):dp[k][c]=dp[k-1][c+1]
-            dp[k][25]=(dp[k-1][0]+dp[k-1][1])%MOD
-        total=0
+class Solution(object):
+    def lengthAfterTransformations(self, s, t):
+        mod = 10**9 + 7
+        nums = [0]*26
         for ch in s:
-            total=(total+dp[t][ord(ch)-97])%MOD
-        return total
+            nums[ord(ch) - 97] += 1
+
+        for _ in range(t):
+            cur = [0]*26
+            z = nums[25]
+            if z:
+                # 'z' → 'a' and 'b'
+                cur[0] = (cur[0] + z) % mod
+                cur[1] = (cur[1] + z) % mod
+            for j in range(25):
+                v = nums[j]
+                if v:
+                    cur[j+1] = (cur[j+1] + v) % mod
+            nums = cur
+
+        res = 0
+        for v in nums:
+            res = (res + v) % mod
+        return res
