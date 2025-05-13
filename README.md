@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/solomon-2105/DSA/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/solomon-2105/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
