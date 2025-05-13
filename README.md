@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/solomon-2105/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -22,12 +23,22 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/solomon-2105/DSA/tree/master/0412-fizz-buzz) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/solomon-2105/DSA/tree/master/0412-fizz-buzz) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/solomon-2105/DSA/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
