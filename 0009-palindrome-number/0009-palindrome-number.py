@@ -4,11 +4,10 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x < 0 or (x % 10 == 0 and x != 0):
-            return False
-        
-        sum = 0
-        while x > sum:
-            sum = sum * 10 + x % 10
-            x //= 10
-        return x == sum or  x== sum / 10
+        if x<0: return False
+        t=x
+        sum=0
+        while t:
+            sum=sum*10 + t%10
+            t//=10
+        return sum==x
