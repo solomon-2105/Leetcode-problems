@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/solomon-2105/DSA/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/solomon-2105/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/solomon-2105/DSA/tree/master/0412-fizz-buzz) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
