@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/solomon-2105/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/solomon-2105/DSA/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
