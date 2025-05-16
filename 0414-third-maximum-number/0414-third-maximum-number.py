@@ -1,9 +1,9 @@
 import sys
 class Solution:
     def thirdMax(self, nums):
-        first = -sys.maxsize - 1
-        second = -sys.maxsize - 1
-        third = -sys.maxsize - 1
+        first = -float('inf')
+        second = -float('inf')
+        third = -float('inf')
 
         for num in nums:
             if num == first or num == second or num == third:
@@ -19,4 +19,4 @@ class Solution:
             elif num > third:
                 third = num
 
-        return first if third == -sys.maxsize - 1 else third
+        return first if third == -float('inf') else third
