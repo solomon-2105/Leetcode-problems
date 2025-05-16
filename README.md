@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/solomon-2105/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
