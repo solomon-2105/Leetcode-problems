@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/solomon-2105/DSA/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/solomon-2105/DSA/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/solomon-2105/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
