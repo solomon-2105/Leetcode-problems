@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/solomon-2105/DSA/tree/master/0029-divide-two-integers) |
 | [3321-type-of-triangle](https://github.com/solomon-2105/DSA/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/solomon-2105/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
