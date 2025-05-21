@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/solomon-2105/DSA/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/solomon-2105/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -42,6 +43,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/solomon-2105/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/solomon-2105/DSA/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/solomon-2105/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
