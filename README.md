@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/solomon-2105/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/solomon-2105/DSA/tree/master/0135-candy) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/solomon-2105/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [3321-type-of-triangle](https://github.com/solomon-2105/DSA/tree/master/3321-type-of-triangle) |
@@ -64,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/solomon-2105/DSA/tree/master/0135-candy) |
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
