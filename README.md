@@ -80,4 +80,8 @@
 | [0263-ugly-number](https://github.com/solomon-2105/DSA/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/solomon-2105/DSA/tree/master/0492-construct-the-rectangle) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/solomon-2105/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/solomon-2105/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
