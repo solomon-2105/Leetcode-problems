@@ -77,5 +77,6 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/solomon-2105/DSA/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/solomon-2105/DSA/tree/master/0263-ugly-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/solomon-2105/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
