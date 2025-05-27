@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/solomon-2105/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/solomon-2105/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/solomon-2105/DSA/tree/master/0202-happy-number) |
 | [0336-palindrome-pairs](https://github.com/solomon-2105/DSA/tree/master/0336-palindrome-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/solomon-2105/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/solomon-2105/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -74,5 +76,6 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/solomon-2105/DSA/tree/master/0202-happy-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/solomon-2105/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
