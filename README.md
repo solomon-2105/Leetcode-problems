@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/solomon-2105/DSA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/solomon-2105/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
