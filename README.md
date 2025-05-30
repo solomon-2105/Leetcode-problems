@@ -42,6 +42,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/solomon-2105/DSA/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/solomon-2105/DSA/tree/master/0492-construct-the-rectangle) |
 ## Binary Search
 |  |
 | ------- |
