@@ -43,6 +43,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0806-domino-and-tromino-tiling](https://github.com/solomon-2105/DSA/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/solomon-2105/DSA/tree/master/0742-to-lower-case) |
+| [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 ## Simulation
 |  |
 | ------- |
