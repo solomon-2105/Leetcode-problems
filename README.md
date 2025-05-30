@@ -46,6 +46,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/solomon-2105/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/solomon-2105/DSA/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/solomon-2105/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/solomon-2105/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
