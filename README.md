@@ -56,6 +56,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/solomon-2105/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/solomon-2105/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2048-build-array-from-permutation](https://github.com/solomon-2105/DSA/tree/master/2048-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/solomon-2105/DSA/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/solomon-2105/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/solomon-2105/DSA/tree/master/2048-build-array-from-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
