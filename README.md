@@ -69,6 +69,7 @@
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
 ## Two Pointers
 |  |
 | ------- |
