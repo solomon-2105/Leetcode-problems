@@ -27,6 +27,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/solomon-2105/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/solomon-2105/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
