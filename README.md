@@ -111,6 +111,7 @@
 | [1364-tuple-with-same-product](https://github.com/solomon-2105/DSA/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/solomon-2105/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/solomon-2105/DSA/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/solomon-2105/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/solomon-2105/DSA/tree/master/1364-tuple-with-same-product) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/solomon-2105/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Recursion
 |  |
 | ------- |
