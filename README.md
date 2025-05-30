@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/solomon-2105/DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/solomon-2105/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/solomon-2105/DSA/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0069-sqrtx](https://github.com/solomon-2105/DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0792-binary-search](https://github.com/solomon-2105/DSA/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
