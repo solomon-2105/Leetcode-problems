@@ -29,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +71,5 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
