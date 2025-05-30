@@ -49,6 +49,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/solomon-2105/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/solomon-2105/DSA/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/solomon-2105/DSA/tree/master/1306-minimum-absolute-difference) |
+| [1364-tuple-with-same-product](https://github.com/solomon-2105/DSA/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/solomon-2105/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -105,6 +106,7 @@
 | [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1364-tuple-with-same-product](https://github.com/solomon-2105/DSA/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
 ## Two Pointers
@@ -159,6 +161,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1364-tuple-with-same-product](https://github.com/solomon-2105/DSA/tree/master/1364-tuple-with-same-product) |
 ## Recursion
 |  |
 | ------- |
