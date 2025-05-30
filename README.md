@@ -71,6 +71,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/solomon-2105/DSA/tree/master/1585-the-kth-factor-of-n) |
+| [1642-water-bottles](https://github.com/solomon-2105/DSA/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/solomon-2105/DSA/tree/master/1642-water-bottles) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
