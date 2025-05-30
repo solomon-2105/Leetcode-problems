@@ -42,6 +42,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0806-domino-and-tromino-tiling](https://github.com/solomon-2105/DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
