@@ -67,6 +67,7 @@
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/solomon-2105/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/solomon-2105/DSA/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/solomon-2105/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/solomon-2105/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/solomon-2105/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/solomon-2105/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Hash Table
@@ -249,8 +251,13 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/solomon-2105/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/solomon-2105/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/solomon-2105/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/solomon-2105/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
