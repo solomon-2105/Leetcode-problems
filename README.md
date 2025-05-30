@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/solomon-2105/DSA/tree/master/0226-invert-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/solomon-2105/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/solomon-2105/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/solomon-2105/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/solomon-2105/DSA/tree/master/0226-invert-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/solomon-2105/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/solomon-2105/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/solomon-2105/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/solomon-2105/DSA/tree/master/0226-invert-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/solomon-2105/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Union Find
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/solomon-2105/DSA/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/solomon-2105/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
