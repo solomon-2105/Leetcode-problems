@@ -47,6 +47,7 @@
 | [1168-duplicate-zeros](https://github.com/solomon-2105/DSA/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/solomon-2105/DSA/tree/master/1306-minimum-absolute-difference) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0507-perfect-number](https://github.com/solomon-2105/DSA/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
