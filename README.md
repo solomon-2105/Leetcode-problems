@@ -65,6 +65,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solomon-2105/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,12 +76,26 @@
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
