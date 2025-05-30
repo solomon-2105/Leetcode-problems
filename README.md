@@ -53,6 +53,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/solomon-2105/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
