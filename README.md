@@ -33,6 +33,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solomon-2105/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/solomon-2105/DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/solomon-2105/DSA/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
