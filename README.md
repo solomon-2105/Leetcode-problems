@@ -37,6 +37,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
+| [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/solomon-2105/DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/solomon-2105/DSA/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
