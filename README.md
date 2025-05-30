@@ -44,6 +44,7 @@
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/solomon-2105/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1168-duplicate-zeros](https://github.com/solomon-2105/DSA/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/solomon-2105/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/solomon-2105/DSA/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
