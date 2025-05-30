@@ -100,6 +100,7 @@
 | [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/solomon-2105/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/solomon-2105/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
