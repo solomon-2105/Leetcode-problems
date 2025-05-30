@@ -51,6 +51,7 @@
 | [1306-minimum-absolute-difference](https://github.com/solomon-2105/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/solomon-2105/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/solomon-2105/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Design
 |  |
 | ------- |
