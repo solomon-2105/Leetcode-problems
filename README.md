@@ -37,6 +37,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/solomon-2105/DSA/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
+| [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,4 +133,8 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
