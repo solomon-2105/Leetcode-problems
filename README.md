@@ -28,10 +28,12 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/solomon-2105/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/solomon-2105/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/solomon-2105/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/solomon-2105/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/solomon-2105/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
