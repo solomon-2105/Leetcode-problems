@@ -36,6 +36,7 @@
 | [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/solomon-2105/DSA/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/solomon-2105/DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/solomon-2105/DSA/tree/master/0507-perfect-number) |
+| [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/solomon-2105/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -77,6 +79,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/solomon-2105/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/solomon-2105/DSA/tree/master/0575-distribute-candies) |
+| [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +126,5 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
+| [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
