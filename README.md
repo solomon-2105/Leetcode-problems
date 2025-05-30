@@ -70,6 +70,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/solomon-2105/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/solomon-2105/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
+| [1585-the-kth-factor-of-n](https://github.com/solomon-2105/DSA/tree/master/1585-the-kth-factor-of-n) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,4 +209,8 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/solomon-2105/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/solomon-2105/DSA/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
