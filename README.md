@@ -8,6 +8,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/solomon-2105/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/solomon-2105/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/solomon-2105/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -29,6 +31,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/solomon-2105/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/solomon-2105/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/solomon-2105/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/solomon-2105/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/solomon-2105/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
