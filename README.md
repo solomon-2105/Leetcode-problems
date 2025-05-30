@@ -76,6 +76,7 @@
 | [1500-count-largest-group](https://github.com/solomon-2105/DSA/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/solomon-2105/DSA/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/solomon-2105/DSA/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/solomon-2105/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Binary Search
 |  |
 | ------- |
