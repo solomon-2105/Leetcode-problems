@@ -40,6 +40,7 @@
 | [0898-transpose-matrix](https://github.com/solomon-2105/DSA/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/solomon-2105/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/solomon-2105/DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/solomon-2105/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/solomon-2105/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
