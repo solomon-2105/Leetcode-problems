@@ -6,10 +6,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/solomon-2105/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -20,6 +22,7 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/solomon-2105/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/solomon-2105/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +52,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/solomon-2105/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/solomon-2105/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
