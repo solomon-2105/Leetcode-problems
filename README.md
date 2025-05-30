@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/solomon-2105/DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/solomon-2105/DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/solomon-2105/DSA/tree/master/0605-can-place-flowers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/solomon-2105/DSA/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,7 @@
 | [0354-russian-doll-envelopes](https://github.com/solomon-2105/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/solomon-2105/DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## String
 |  |
 | ------- |
