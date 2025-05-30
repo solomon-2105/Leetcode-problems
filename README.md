@@ -92,6 +92,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/solomon-2105/DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0742-to-lower-case](https://github.com/solomon-2105/DSA/tree/master/0742-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
