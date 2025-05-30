@@ -90,6 +90,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/solomon-2105/DSA/tree/master/0575-distribute-candies) |
 | [0797-rabbits-in-forest](https://github.com/solomon-2105/DSA/tree/master/0797-rabbits-in-forest) |
+| [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0742-to-lower-case](https://github.com/solomon-2105/DSA/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/solomon-2105/DSA/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/solomon-2105/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 ## Recursion
 |  |
 | ------- |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/solomon-2105/DSA/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/solomon-2105/DSA/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
