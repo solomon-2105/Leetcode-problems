@@ -21,4 +21,16 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/solomon-2105/DSA/tree/master/0463-island-perimeter) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/solomon-2105/DSA/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/solomon-2105/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/solomon-2105/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
