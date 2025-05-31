@@ -30,14 +30,17 @@
 | [0504-base-7](https://github.com/solomon-2105/DSA/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/solomon-2105/DSA/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/solomon-2105/DSA/tree/master/0830-largest-triangle-area) |
+| [1086-divisor-game](https://github.com/solomon-2105/DSA/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/solomon-2105/DSA/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/solomon-2105/DSA/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/solomon-2105/DSA/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/solomon-2105/DSA/tree/master/1086-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +49,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/solomon-2105/DSA/tree/master/0830-largest-triangle-area) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/solomon-2105/DSA/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
