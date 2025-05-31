@@ -26,6 +26,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/solomon-2105/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/solomon-2105/DSA/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/solomon-2105/DSA/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
 | ------- |
