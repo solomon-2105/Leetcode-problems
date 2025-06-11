@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/solomon-2105/DSA/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/solomon-2105/DSA/tree/master/0162-find-peak-element) |
 ## Greedy
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
