@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/solomon-2105/DSA/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/solomon-2105/DSA/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/solomon-2105/DSA/tree/master/0162-find-peak-element) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/solomon-2105/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
 | ------- |
