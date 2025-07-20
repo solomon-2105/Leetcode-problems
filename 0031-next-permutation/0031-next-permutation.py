@@ -1,24 +1,23 @@
-class Solution(object):
-    def nextPermutation(self, nums):
+class Solution:
+    def nextPermutation(self, a: List[int]) -> None:
         """
-        :type nums: List[int]
-        :rtype: None Do not return anything, modify nums in-place instead.
+        Do not return anything, modify nums in-place instead.
         """
-        n=len(nums)
-        pivot=-1
-        for i in range(n-2,-1,-1):
-            if nums[i]<nums[i+1]:
-                pivot=i
+        crr=-1
+        for i in range(len(a)-1,0,-1):
+            if a[i-1]<a[i]:
+                crr=i-1
                 break
-        if pivot==-1:
-            nums.reverse()
+        if crr==-1:
+            a.reverse()
             return
-        for i in range(n-1,-1,-1):
-            if nums[i]>nums[pivot]:
-                nums[i],nums[pivot]=nums[pivot],nums[i]
+        for i in range(len(a)-1,0,-1):
+            if a[i]>a[crr]:
+                a[i],a[crr]=a[crr],a[i]
                 break
-        i,j=pivot+1,n-1
-        while i<j:
-            nums[i],nums[j]=nums[j],nums[i]
-            i+=1
-            j-=1
+        low=crr+1
+        high=len(a)-1
+        while low<high:
+            a[low],a[high]=a[high],a[low]
+            low+=1
+            high-=1
