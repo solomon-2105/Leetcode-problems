@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/solomon-2105/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
