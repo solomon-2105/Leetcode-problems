@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/solomon-2105/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/solomon-2105/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
