@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
