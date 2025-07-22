@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1813-maximum-erasure-value](https://github.com/solomon-2105/DSA/tree/master/1813-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/solomon-2105/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [1813-maximum-erasure-value](https://github.com/solomon-2105/DSA/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/solomon-2105/DSA/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
