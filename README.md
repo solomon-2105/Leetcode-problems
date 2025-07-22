@@ -9,11 +9,13 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/solomon-2105/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -66,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
