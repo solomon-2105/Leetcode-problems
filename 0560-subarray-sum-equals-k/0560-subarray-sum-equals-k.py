@@ -10,10 +10,7 @@ class Solution(object):
         brr={0:1}
         for i in range(len(nums)):
             summ+=nums[i]
-            if summ-k in brr:
-                count+=brr[summ-k]
-            if summ in brr:
-                brr[summ]+=1
-            else:
-                brr[summ]=1
+            rem=summ-k
+            count+=brr.get(rem,0)
+            brr[summ]= brr.get(summ,0)+1 
         return count
