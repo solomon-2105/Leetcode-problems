@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/solomon-2105/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1813-maximum-erasure-value](https://github.com/solomon-2105/DSA/tree/master/1813-maximum-erasure-value) |
@@ -32,6 +33,7 @@
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/solomon-2105/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1813-maximum-erasure-value](https://github.com/solomon-2105/DSA/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
@@ -42,11 +44,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/solomon-2105/DSA/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/solomon-2105/DSA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
