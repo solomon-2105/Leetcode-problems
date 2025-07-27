@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solomon-2105/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/solomon-2105/DSA/tree/master/0054-spiral-matrix) |
@@ -43,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solomon-2105/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/solomon-2105/DSA/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
@@ -59,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solomon-2105/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/solomon-2105/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
