@@ -1,14 +1,17 @@
 class Solution:
-    def maxProduct(self, nums):
-        max_so_far = nums[0]
-        min_so_far = nums[0]
-        result = nums[0]
-        for i in range(1, len(nums)):
-            current = nums[i]
-            temp_max = max(current, max_so_far * current, min_so_far * current)
-            temp_min = min(current, max_so_far * current, min_so_far * current)
-            max_so_far = temp_max
-            min_so_far = temp_min
-            if max_so_far > result:
-                result = max_so_far
-        return result
+    def maxProduct(self, a: List[int]) -> int:
+        maxi=-sys.maxsize
+        prefix=suffix=1
+        for i in range(len(a)):
+            prefix*=a[i]
+            maxi=max(maxi,prefix)
+            if a[i]==0:
+                maxi=max(0,maxi)
+                prefix=1
+        for i in range(len(a)-1,-1,-1):
+            suffix*=a[i]
+            maxi=max(maxi,suffix)
+            if a[i]==0:
+                maxi=max(0,maxi)
+                suffix=1
+        return maxi
