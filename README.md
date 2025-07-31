@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/solomon-2105/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/solomon-2105/DSA/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0958-sort-array-by-parity-ii](https://github.com/solomon-2105/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1813-maximum-erasure-value](https://github.com/solomon-2105/DSA/tree/master/1813-maximum-erasure-value) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/solomon-2105/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,24 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
