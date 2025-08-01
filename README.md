@@ -16,6 +16,7 @@
 | ------- |
 | [0015-3sum](https://github.com/solomon-2105/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/solomon-2105/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/solomon-2105/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/solomon-2105/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -99,6 +100,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/solomon-2105/DSA/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
