@@ -20,6 +20,7 @@
 | [0048-rotate-image](https://github.com/solomon-2105/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/solomon-2105/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/solomon-2105/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/solomon-2105/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/solomon-2105/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/solomon-2105/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
