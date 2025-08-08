@@ -1,9 +1,10 @@
+import math
 class Solution:
     def minEatingSpeed(self,a:List[int],h:int)->int:
         def brr(a:List[int],i:int)->int:
             s=0
             for j in a:
-                s+=(j+i-1)//i
+                s+=math.ceil(j/i)
             return s
         grr=0
         for val in a:
