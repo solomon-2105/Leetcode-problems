@@ -5,10 +5,12 @@
 ## Array
 |  |
 | ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/solomon-2105/Leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/solomon-2105/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/solomon-2105/Leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/solomon-2105/Leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Math
 |  |
