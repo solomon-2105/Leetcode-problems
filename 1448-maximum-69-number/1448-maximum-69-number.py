@@ -10,4 +10,3 @@ class Solution:
             else:
                 brr+=i
         return int(brr)
-            
