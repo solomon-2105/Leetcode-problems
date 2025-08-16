@@ -1,5 +1,9 @@
-class Solution:
-    def maximum69Number (self, num: int) -> int:
+class Solution(object):
+    def maximum69Number (self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
         a=str(num)
         brr=""
         c=False
@@ -10,3 +14,4 @@ class Solution:
             else:
                 brr+=i
         return int(brr)
+        
