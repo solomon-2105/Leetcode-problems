@@ -1,42 +1,23 @@
 class Solution:
-    def reverseWords(self, s):
-        def reverse(arr, left, right):
-            while left < right:
-                arr[left], arr[right] = arr[right], arr[left]
-                left += 1
-                right -= 1
-
-        s = list(s)
-        n = len(s)
-
-        # Step 1: Reverse the entire string
-        reverse(s, 0, n - 1)
-
-        i = 0  # read pointer
-        j = 0  # write pointer
-
-        while i < n:
-            # Skip spaces
-            while i < n and s[i] == ' ':
-                i += 1
-            if i >= n:
-                break
-
-            # Write a space if not the first word
-            if j > 0:
-                s[j] = ' '
-                j += 1
-
-            start = j
-
-            # Copy the word
-            while i < n and s[i] != ' ':
-                s[j] = s[i]
-                j += 1
-                i += 1
-
-            # Reverse the word in-place
-            reverse(s, start, j - 1)
-
-        # Resize the string to remove trailing content
-        return ''.join(s[:j])
+    def reverseWords(self, s: str) -> str:
+        def reversee(brr,left,right):
+            while left<=right:
+                brr[left],brr[right]=brr[right],brr[left]
+                left+=1
+                right-=1
+        brr=list(s.strip())
+        reversee(brr,0,len(brr)-1)
+        i=k=0
+        res=[]
+        while k<len(brr):
+            if brr[k]!=" ":
+                k+=1
+            else:
+                reversee(brr,i,k-1)
+                res.append("".join(brr[i:k]))
+                while k<len(brr) and brr[k]==" ":
+                    k+=1
+                i=k
+        reversee(brr,i,len(brr)-1)
+        res.append("".join(brr[i:]))
+        return " ".join(res)
