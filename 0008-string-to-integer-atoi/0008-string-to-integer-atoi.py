@@ -1,21 +1,19 @@
 class Solution:
-    def myAtoi(self,s: str) -> int:
+    def myAtoi(self, s: str) -> int:
+        if not s: return 0
         i=0
-        n=len(s)
-        while i<n and s[i]==' ':
+        while i<len(s) and s[i]==" ": i+=1
+        if i==len(s): return 0
+        brr=False
+        if s[i]=="-":
+            brr=True
             i+=1
-        if i==n:
-            return 0
-        sign=1
-        if s[i]=='-':
-            sign=-1
-            i+=1
-        elif s[i]=='+':
+        elif s[i]=="+":
             i+=1
         num=0
-        while i<n and s[i].isdigit():
-            num=num*10+int(s[i])
+        while i<len(s) and s[i].isdigit():
+            num=num*10+(ord(s[i])-ord('0'))
             i+=1
-        num*=sign
+        if brr: num*=-1
         num=max(-2**31,min(2**31-1,num))
         return num
