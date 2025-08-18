@@ -15,6 +15,7 @@
 | [0012-integer-to-roman](https://github.com/solomon-2105/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/solomon-2105/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/solomon-2105/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/solomon-2105/Leetcode-problems/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Two Pointers
 |  |
 | ------- |
