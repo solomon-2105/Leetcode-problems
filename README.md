@@ -99,6 +99,7 @@
 | [3483-alternating-groups-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
