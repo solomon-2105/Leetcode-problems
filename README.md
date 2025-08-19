@@ -38,6 +38,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/solomon-2105/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
