@@ -56,6 +56,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
 |  |
 | ------- |
