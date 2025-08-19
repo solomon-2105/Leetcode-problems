@@ -119,6 +119,7 @@
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3841-concatenated-divisibility](https://github.com/solomon-2105/Leetcode-problems/tree/master/3841-concatenated-divisibility) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [3430-count-days-without-meetings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/solomon-2105/Leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +266,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Queue
 |  |
 | ------- |
