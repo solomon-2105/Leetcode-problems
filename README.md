@@ -119,6 +119,7 @@
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3841-concatenated-divisibility](https://github.com/solomon-2105/Leetcode-problems/tree/master/3841-concatenated-divisibility) |
+| [3958-minimum-removals-to-balance-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3958-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [3430-count-days-without-meetings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
+| [3958-minimum-removals-to-balance-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
