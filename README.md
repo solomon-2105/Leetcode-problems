@@ -31,6 +31,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3841-concatenated-divisibility](https://github.com/solomon-2105/Leetcode-problems/tree/master/3841-concatenated-divisibility) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3841-concatenated-divisibility](https://github.com/solomon-2105/Leetcode-problems/tree/master/3841-concatenated-divisibility) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3841-concatenated-divisibility](https://github.com/solomon-2105/Leetcode-problems/tree/master/3841-concatenated-divisibility) |
 ## Two Pointers
 |  |
 | ------- |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3841-concatenated-divisibility](https://github.com/solomon-2105/Leetcode-problems/tree/master/3841-concatenated-divisibility) |
 <!---LeetCode Topics End-->
