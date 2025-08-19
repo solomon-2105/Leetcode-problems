@@ -25,6 +25,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -83,4 +84,16 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
