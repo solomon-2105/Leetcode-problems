@@ -12,6 +12,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/solomon-2105/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/solomon-2105/Leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/solomon-2105/Leetcode-problems/tree/master/2752-sum-multiples) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
