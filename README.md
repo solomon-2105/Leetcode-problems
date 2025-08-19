@@ -114,6 +114,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [3321-type-of-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
+| [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
