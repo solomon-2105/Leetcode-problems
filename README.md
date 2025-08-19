@@ -115,6 +115,7 @@
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
