@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomon-2105/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/solomon-2105/Leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
