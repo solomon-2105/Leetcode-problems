@@ -22,4 +22,9 @@
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
