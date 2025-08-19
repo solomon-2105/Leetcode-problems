@@ -23,6 +23,7 @@
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Simulation
 |  |
 | ------- |
