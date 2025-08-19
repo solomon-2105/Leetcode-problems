@@ -77,6 +77,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
 |  |
 | ------- |
