@@ -55,6 +55,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
