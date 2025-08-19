@@ -54,6 +54,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Backtracking
 |  |
 | ------- |
