@@ -65,6 +65,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/solomon-2105/Leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/solomon-2105/Leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
