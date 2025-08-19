@@ -44,6 +44,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/solomon-2105/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/solomon-2105/Leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
