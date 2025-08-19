@@ -60,6 +60,7 @@
 | [3732-calculate-score-after-performing-instructions](https://github.com/solomon-2105/Leetcode-problems/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/Leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3819-count-covered-buildings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/Leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/Leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
