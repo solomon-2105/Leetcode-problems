@@ -49,6 +49,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
