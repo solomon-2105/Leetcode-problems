@@ -95,6 +95,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Design
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Tree
 |  |
 | ------- |
@@ -246,4 +250,5 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
