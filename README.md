@@ -46,10 +46,12 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/solomon-2105/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
 | ------- |
