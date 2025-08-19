@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/solomon-2105/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomon-2105/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,9 +66,11 @@
 | ------- |
 | [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/solomon-2105/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/solomon-2105/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
