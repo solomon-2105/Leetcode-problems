@@ -50,6 +50,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/solomon-2105/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Queue
 |  |
 | ------- |
