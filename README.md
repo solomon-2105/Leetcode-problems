@@ -55,6 +55,7 @@
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/solomon-2105/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/solomon-2105/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sorting
 |  |
 | ------- |
