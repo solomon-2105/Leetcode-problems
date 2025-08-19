@@ -23,6 +23,7 @@
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [3194-find-words-containing-character](https://github.com/solomon-2105/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/solomon-2105/Leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Search
@@ -113,6 +115,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -160,10 +163,12 @@
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/solomon-2105/Leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,4 +200,8 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
