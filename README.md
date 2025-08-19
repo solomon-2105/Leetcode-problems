@@ -18,6 +18,7 @@
 | [3321-type-of-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
@@ -251,4 +254,8 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
