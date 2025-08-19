@@ -10,6 +10,7 @@
 | [2556-convert-the-temperature](https://github.com/solomon-2105/Leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/solomon-2105/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [2649-count-total-number-of-colored-cells](https://github.com/solomon-2105/Leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Dynamic Programming
 |  |
 | ------- |
