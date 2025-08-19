@@ -56,6 +56,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3709-find-special-substring-of-length-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/3709-find-special-substring-of-length-k) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/solomon-2105/Leetcode-problems/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
@@ -66,6 +67,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/3447-clear-digits) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/solomon-2105/Leetcode-problems/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
@@ -108,6 +110,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/solomon-2105/Leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/solomon-2105/Leetcode-problems/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -156,6 +159,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/solomon-2105/Leetcode-problems/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
