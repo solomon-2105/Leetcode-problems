@@ -103,10 +103,12 @@
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/solomon-2105/Leetcode-problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/solomon-2105/Leetcode-problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Counting
 |  |
 | ------- |
@@ -149,4 +151,12 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/solomon-2105/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/solomon-2105/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
