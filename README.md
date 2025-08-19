@@ -79,6 +79,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/solomon-2105/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
