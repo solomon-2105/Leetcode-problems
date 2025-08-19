@@ -39,6 +39,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,8 +102,13 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
