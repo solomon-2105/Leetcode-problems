@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/solomon-2105/Leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/solomon-2105/Leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
