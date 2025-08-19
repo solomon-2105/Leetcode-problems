@@ -106,6 +106,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/solomon-2105/Leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Sorting
 |  |
 | ------- |
