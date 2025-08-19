@@ -86,6 +86,7 @@
 | [3430-count-days-without-meetings](https://github.com/solomon-2105/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-alternating-groups-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/solomon-2105/Leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-alternating-groups-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
