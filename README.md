@@ -47,6 +47,7 @@
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/solomon-2105/Leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/3321-type-of-triangle) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
 |  |
 | ------- |
