@@ -49,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
@@ -57,5 +58,14 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
