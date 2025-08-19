@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [2478-longest-nice-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/solomon-2105/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 ## Queue
 |  |
 | ------- |
