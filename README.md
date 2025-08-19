@@ -100,6 +100,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/solomon-2105/Leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
