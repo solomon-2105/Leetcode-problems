@@ -9,6 +9,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/solomon-2105/Leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/solomon-2105/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/solomon-2105/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/solomon-2105/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
