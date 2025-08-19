@@ -63,8 +63,10 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
+| [0890-lemonade-change](https://github.com/solomon-2105/Leetcode-problems/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/0055-jump-game) |
+| [0890-lemonade-change](https://github.com/solomon-2105/Leetcode-problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
