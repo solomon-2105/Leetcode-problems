@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Array
+|  |
+| ------- |
+| [2350-find-closest-number-to-zero](https://github.com/solomon-2105/Leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->
