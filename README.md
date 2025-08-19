@@ -57,6 +57,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
 |  |
 | ------- |
