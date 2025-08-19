@@ -19,6 +19,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/solomon-2105/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
 |  |
@@ -138,6 +141,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/solomon-2105/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
