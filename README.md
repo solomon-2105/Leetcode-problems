@@ -65,6 +65,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/solomon-2105/Leetcode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/solomon-2105/Leetcode-problems/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/solomon-2105/Leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/solomon-2105/Leetcode-problems/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [2690-house-robber-iv](https://github.com/solomon-2105/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,4 +289,8 @@
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/3637-count-number-of-balanced-permutations) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
