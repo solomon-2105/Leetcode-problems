@@ -8,6 +8,7 @@
 | [1013-fibonacci-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/solomon-2105/Leetcode-problems/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
