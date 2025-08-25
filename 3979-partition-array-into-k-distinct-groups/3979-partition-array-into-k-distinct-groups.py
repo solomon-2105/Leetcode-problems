@@ -1,5 +1,10 @@
-class Solution:
-    def partitionArray(self, nums: List[int], k: int) -> bool:
+class Solution(object):
+    def partitionArray(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: bool
+        """
         if len(nums)%k !=0:
             return False
         else:
