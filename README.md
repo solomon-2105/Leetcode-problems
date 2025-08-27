@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [2630-alternating-digit-sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/2630-alternating-digit-sum) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/solomon-2105/Leetcode-problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
