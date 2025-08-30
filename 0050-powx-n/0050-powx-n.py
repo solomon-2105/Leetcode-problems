@@ -1,14 +1,6 @@
-class Solution:
-    def myPow(self, x: float, n: int) -> float:
-        def fast_pow(base: float, exponent: int) -> float:
-            if exponent==0:
-                return 1.0
-            half=fast_pow(base,exponent//2)
-            if exponent%2==0:
-                return half*half
-            else:
-                return half*half*base
-        if n<0:
-            x=1/x
-            n=-n
-        return fast_pow(x,n)
+class Solution(object):
+    def myPow(self, x, n):
+        if n==0: return 1
+        if n<0: x,n=1/x,-n
+        half=self.myPow(x,n//2)
+        return half*half if n%2==0 else half*half*x
