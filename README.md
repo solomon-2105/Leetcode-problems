@@ -7,6 +7,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/solomon-2105/Leetcode-problems/tree/master/0050-powx-n) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/solomon-2105/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/solomon-2105/Leetcode-problems/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
