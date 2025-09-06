@@ -1,6 +1,6 @@
 class Solution:
     def makeTheIntegerZero(self, a: int, b: int) -> int:
-        for i in range(1,61):
+        for i in range(1,36):
             brr=a-i*b
             if brr<i:
                 continue
