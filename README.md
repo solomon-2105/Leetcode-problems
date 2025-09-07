@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0001-two-sum) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/solomon-2105/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/solomon-2105/Leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -26,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/solomon-2105/Leetcode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/solomon-2105/Leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 <!---LeetCode Topics End-->
