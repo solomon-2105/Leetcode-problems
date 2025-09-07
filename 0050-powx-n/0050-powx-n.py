@@ -1,6 +1,15 @@
 class Solution(object):
     def myPow(self, x, n):
-        if n==0: return 1
-        if n<0: x,n=1/x,-n
-        half=self.myPow(x,n//2)
-        return half*half if n%2==0 else half*half*x
+        nn=abs(n)
+        res=1
+        while nn:
+            if nn%2==0:
+                x*=x
+                nn//=2
+            else:
+                res*=x
+                nn-=1
+        if n<0:
+            res=1/res
+        return res
+
