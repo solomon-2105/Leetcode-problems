@@ -5,6 +5,7 @@ brr
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -36,4 +37,8 @@ brr
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
