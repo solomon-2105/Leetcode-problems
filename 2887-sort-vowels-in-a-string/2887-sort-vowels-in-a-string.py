@@ -7,10 +7,11 @@ class Solution:
                 a.append(i)
         a.sort()
         res=""
+        j=0
         for i in s:
             if i.lower() in se:
-                res+=a[0]
-                a.pop(0)
+                res+=a[j]
+                j+=1
             else:
                 res+=i
         return res
