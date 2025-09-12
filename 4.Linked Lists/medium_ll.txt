@@ -1,0 +1,440 @@
+1) Middle of a LinkedList (tortoise-hare method)
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if head is None:
+            return None
+        if head.next is None:
+            return head
+        fast,slow=head,head
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+        return slow
+
+
+2) Reverse a Linked List(iterative - bruteforce)
+
+# Definition for singly-linked list.
+# class ListNode:
+#   def __init__(self, val=0, next=None):
+#       self.val = val
+#       self.next = next
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        s=[]
+        current=head
+        while current is  not None:
+            s.append(current.val)
+            current=current.next
+        cur=head
+        while cur is not None:
+            cur.val=s.pop()
+            cur=cur.next
+        return head
+
+
+3) Reverse a Linked List(iterative - optimal)
+
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        prev=None
+        current=head
+        while current:
+            nxt=current.next
+            current.next=prev
+            prev=current
+            current=nxt
+        return prev
+
+
+4) Reverse a Linked List(recursive)
+
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        def brr(current,prev):
+            if current is None:
+                return prev
+            nxt=current.next
+            current.next=prev
+            return brr(nxt,current)
+        return brr(head,None)
+
+
+5)detect a loop in ll:
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        f,s=head,head
+        while f and f.next:
+            f=f.next.next
+            s=s.next
+            if f==s:
+                return True
+        return False
+
+
+6)find the starting point in ll:
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        s,f=head,head
+        while f and f.next:
+            s=s.next
+            f=f.next.next
+            if s==f: break
+        else: return None
+        f=head
+        while f!=s:
+            f=f.next
+            s=s.next
+        return s
+        
+
+7)length of the loop in an ll
+
+class Solution:
+    def lengthOfLoop(self, head):
+        slow=fast=head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
+                count=1
+                fast=fast.next
+                while fast!=slow:
+                    fast=fast.next
+                    count+=1
+                return count
+        return 0
+
+
+8)check if ll is palindrome or not
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        a=[]
+        while head:
+            a.append(head.val)
+            head=head.next
+        left=0
+        right=len(a)-1
+        while left<right:
+            if a[left]!=a[right]:
+                return False
+            left+=1
+            right-=1
+        return True
+
+
+9)segregate odd and even nodes in a linked list
+
+class Solution(object):
+    def oddEvenList(self, head):
+        if not head or not head.next:
+            return head
+        odd,even=head,head.next
+        eve=even
+        while even and even.next:
+            odd.next,even.next=odd.next.next,even.next.next
+            odd,even=odd.next,even.next
+        odd.next=eve
+        return head
+
+
+10) delete the middle of a linked list
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+
+#BRUTEFORCE (COMMENTED)
+
+    #     if head is None or head.next is None:
+    #         return None
+    #     size=self.length(head)
+    #     brr=size//2
+    #     cur=head
+    #     for _ in range(brr-1):
+    #         cur=cur.next
+    #     cur.next=cur.next.next
+    #     return head
+
+    # def length(self,head):
+    #     cur=head
+    #     count=0
+    #     while cur is not None:
+    #         count+=1
+    #         cur=cur.next
+    #     return count
+
+#OPTIMAL
+
+        if head is None or head.next is None:
+            return None
+        fast,slow=head,head
+        prev=None
+        while fast is not None and fast.next is not None:
+            prev=slow
+            slow=slow.next
+            fast=fast.next.next
+        prev.next=slow.next
+        return head
+
+
+11) remove nth node from the end of the list (bruteforce)
+
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        l=0
+        c=head
+        while c:
+            l+=1
+            c=c.next
+        p=l-n+1
+        if p==1:
+            return head.next
+        c=head
+        i=1
+        while i<p-1:
+            c=c.next
+            i+=1
+        c.next=c.next.next
+        return head
+
+
+12) remove nth node from the end of the list (optimal)
+
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        d=ListNode(0,head)
+        s=f=d
+        for _ in range(n+1):
+            f=f.next
+        while f:
+            f=f.next
+            s=s.next
+        s.next=s.next.next
+        return d.next
+
+
+13) sort a linkedlist
+
+#BRUTEFORCE
+
+Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+class Solution:
+    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        l=[]
+        cur=head
+        while cur:
+            l.append(cur.val)
+            cur=cur.next
+        l.sort()
+        curr=head
+        i=0
+        while curr:
+            curr.val=l[i]
+            i+=1
+            curr=curr.next
+        return head
+
+#OPTIMAL
+
+class Solution:
+    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return head
+        s,f=head,head.next
+        while f and f.next:
+            s=s.next
+            f=f.next.next
+        m=s.next
+        s.next=None
+        l=self.sortList(head)
+        r=self.sortList(m)
+        return self.merge(l,r)
+    def merge(self,a,b):
+        d=ListNode()
+        c=d
+        while a and b:
+            if a.val<b.val:
+                c.next=a
+                a=a.next
+            else:
+                c.next=b
+                b=b.next
+            c=c.next
+        c.next=a if a else b
+        return d.next
+
+
+14) Sort an LL of 0's,1's and 2's 
+
+class Solution:
+    def segregate(self, head):
+        z=Node(0)
+        o=Node(0)
+        t=Node(0)
+        Z,O,T=z,o,t
+        c=head
+        while c:
+            if c.data==0:
+                Z.next=c
+                Z=Z.next
+            elif c.data==1:
+                O.next=c
+                O=O.next
+            else:
+                T.next=c
+                T=T.next
+            c=c.next
+        T.next=None
+        O.next=t.next
+        Z.next=o.next
+        return z.next
+
+
+15)Intersection of 2 linked lists
+
+# OPTIMAL
+
+Definition for singly-linked list.
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+class Solution:
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        if not headA or not headB:
+            return None
+        p1,p2=headA,headB
+        while p1!=p2:
+            p1=p1.next if p1 else headB
+            p2=p2.next if p2 else headA
+        return p1
+
+#BRUTEFORCE
+
+Definition for singly-linked list.
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+class Solution:
+    def getIntersectionNode(self,A,B):
+        s=set()
+        while A:s.add(A);A=A.next
+        while B:
+            if B in s:return B
+            B=B.next
+        return None
+
+
+16) Add 2 numbers in an LL
+
+class Solution:
+    def addTwoNumbers(self,l1,l2):
+        d=ListNode(0)
+        c=d
+        f=0
+        while l1 or l2 or f:
+            x=l1.val if l1 else 0
+            y=l2.val if l2 else 0
+            s=x+y+f
+            f=s//10
+            c.next=ListNode(s%10)
+            c=c.next
+            l1=l1.next if l1 else None
+            l2=l2.next if l2 else None
+        return d.next
+
+
+17) Add 1 to a number represented by LL
+
+class Solution:
+    def addOne(self,head):
+        
+        # Reverse the linked list ,bitch
+        prev=None
+        curr=head
+        while curr:
+            nxt=curr.next
+            curr.next=prev
+            prev=curr
+            curr=nxt
+        head=prev
+        
+        # Add 1 ,whore
+        curr=head
+        carry=1
+        while curr:
+            curr.data += carry
+            carry=curr.data//10
+            curr.data %= 10
+            if carry==0:
+                break
+            if curr.next is None and carry:
+                curr.next=Node(carry)
+                carry=0
+            curr=curr.next
+        
+        # Reverse it back ,cunt
+        prev=None
+        curr=head
+        while curr:
+            nxt=curr.next
+            curr.next=prev
+            prev=curr
+            curr=nxt
+        return prev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

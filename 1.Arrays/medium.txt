@@ -1,0 +1,321 @@
+1)two sum (better)
+
+a=list(map(int,input().split()))
+summ=int(input())
+c={}
+for i in range(len(a)):
+    if summ-a[i] in c:
+        print(a[i],summ-a[i])
+        exit()
+    c[a[i]]=i
+print("No such pair found")
+
+
+2)two sum (optimal but only for sorted arrays)
+
+a=list(map(int,input().split()))
+summ=int(input())
+left,right=0,len(a)-1
+while left<right:
+    if a[left]+a[right]==summ:
+        print(a[left],[right])
+        exit()
+    elif a[left]+a[right]<summ:
+        left+=1
+    else:
+        right-=1
+print("No such pair found")
+
+
+3)Dutch National Flag algorithm
+
+a=list(map(int,input().split()))
+low,mid,high=0,0,len(a)-1
+while mid<=high:
+    if a[mid]==0:
+        a[low],a[mid]=a[mid],a[low]
+        low+=1
+        mid+=1
+    elif a[mid]==1:
+        mid+=1
+    elif a[mid]==2:
+        a[mid],a[high]=a[high],a[mid]
+        high-=1
+print(a)
+
+
+4)Boyer-Moore Voting Algorithm
+
+a=list(map(int,input().split()))
+ele,cnt=None,0
+for i in a:
+    if cnt==0:
+        ele=i
+        cnt=1
+    elif i==ele:
+        cnt+=1
+    else:
+        cnt-=1
+brr=0
+for i in a:
+    if i==ele:
+        brr+=1
+if brr>len(a)//2:
+    print(ele)
+else:
+    print("No majority element found")
+
+
+5)Kadane's Algorithm
+
+a=list(map(int,input().split()))
+summ=float('-inf')
+curr_sum=0
+start,ansstart,ansend=0,-1,-1
+for i in range(len(a)):
+    if curr_sum==0:
+        start=i
+    curr_sum+=a[i]
+    if curr_sum>summ:
+        summ=curr_sum
+        ansstart=start
+        ansend=i
+    if curr_sum<0:
+        curr_sum=0
+print(summ)
+print(a[ansstart:ansend+1])
+
+
+6)stock buy and sell
+
+a=list(map(int,input().split()))
+min_price=float('inf')
+max_profit=0
+for i in range(len(a)):
+    min_price=min(min_price,a[i])
+    max_profit=max(max_profit,a[i]-min_price)
+print(max_profit)
+
+
+7)Rearrange the array in alternating positive and negative items
+
+a=list(map(int,input().split()))
+pos,neg=0,1
+ans=[0]*len(a)
+for i in a:
+    if i>0:
+        ans[pos]=i
+        pos+=2
+    elif i<0:
+        ans[neg]=i
+        neg+=2
+print(ans)
+
+
+8)Next Permutation
+
+a=list(map(int,input().split()))
+pivot=-1
+for i in range(len(a)-1,-1,-1):
+    if a[i]>a[i-1]:
+        pivot=i-1
+        break
+if pivot==-1:
+    a.reverse()
+    print(a)
+    exit()
+for i in range(len(a)-1,-1,-1):
+    if a[pivot]<a[i]:
+        a[pivot],a[i]=a[i],a[pivot]
+        break
+left,right=pivot+1,len(a)-1
+while left<=right:
+    a[left],a[right]=a[right],a[left]
+    left+=1
+    right-=1
+print(a)
+
+
+9)Leaders in an array
+
+a=list(map(int,input().split()))
+brr=[]
+brr.append(a[-1])
+maxi=a[-1]
+for i in range(len(a)-2,-1,-1):
+    if maxi<a[i]:
+        maxi=a[i]
+        brr.append(a[i])
+brr.reverse()
+print(brr)
+
+
+10)Longest consecutive sequence in an array(better)
+
+a=list(map(int,input().split()))
+if not a:
+    print(0)
+    exit()
+longest=1
+cur_cnt=1
+a.sort()
+for i in range(1,len(a)):
+    if a[i]==a[i-1]+1:
+        cur_cnt+=1
+    elif a[i]==a[i-1]:
+        continue
+    else:
+        cur_cnt=1
+    longest=max(longest,cur_cnt)
+print(longest)
+
+
+11)Longest consecutive sequence in an array(optimal)
+
+a=list(map(int,input().split()))
+if not a:
+    print(0)
+    exit()
+brr=set()
+longest=1
+for i in a:
+    brr.add(i)
+for i in brr:
+    if i-1 not in brr:
+        count=1
+        x=i
+        while x+1 in brr:
+            count+=1
+            x+=1
+        longest=max(count,longest)
+print(longest)
+
+
+12)set matrix zeroes(bruteforce)
+
+def markc(a,j):
+    for i in range(len(a)):
+        if a[i][j]!=0:
+            a[i][j]="A"
+def markr(a,i):
+    for j in range(len(a[0])):
+        if a[i][j]!=0:
+            a[i][j]="A"
+
+a=[[1,1,1],[1,0,1],[1,1,1]]
+for i in range(len(a)):
+    for j in range(len(a[0])):
+        if a[i][j]==0:
+            markr(a,i)
+            markc(a,j)
+
+for i in range(len(a)):
+    for j in range(len(a[0])):
+        if a[i][j]=="A":
+            a[i][j]=0
+print(a)
+
+
+13)set matrix zeroes(better)
+
+a=[[1,1,1],[1,0,1],[1,1,1]]
+e,f=len(a),len(a[0])
+x=[False]*e
+y=[False]*f
+for i in range(e):
+    for j in range(f):
+        if a[i][j]==0:
+            x[i]=True
+            y[j]=True
+for i in range(e):
+    for j in range(f):
+        if x[i] or y[j]:
+            a[i][j]=0
+print(a)
+
+
+14)set matrix zeroes(optimal)
+
+m,n=map(int,input("enter no of rows and columns : ").split())
+a=[[0 for j in range(n)] for i in range(m)]
+for i in range(m):
+    for j in range(n):
+        brr=int(input())
+        a[i][j]=brr
+col0=1
+for i in range(m):
+    for j in range(n):
+        if a[i][j]==0:
+            a[i][0]=0
+            if j!=0:
+                a[0][j]=0
+            else:
+                col0=0
+for i in range(1,m):
+    for j in range(1,n):
+        if a[i][0]==0 or a[0][j]==0:
+            a[i][j]=0
+if a[0][0]==0:
+    for i in range(m):
+        a[i][0]=0
+if col0==0:
+    for j in range(n):
+        a[0][j]=0
+print(a)
+
+
+15)rotate an image by 90 degrees
+
+a=[[1,2,3],[4,5,6],[7,8,9]]
+for i in range(len(a)):
+    for j in range(i+1,len(a)):
+        a[i][j],a[j][i]=a[j][i],a[i][j]
+for i in range(len(a)):
+    left,right=0,len(a)-1
+    while left<right:
+        a[i][left],a[i][right]=a[i][right],a[i][left]
+        left+=1
+        right-=1
+print(a)
+
+
+16)spiral matrix
+
+a=[[1,2,3],[4,5,6],[7,8,9]]
+top,bottom,left,right=0,len(a)-1,0,len(a)-1
+while left<=right and top<=bottom:
+    for i in range(left,right+1):
+        print(a[top][i],end=" ")
+    top+=1
+
+    for i in range(top,bottom+1):
+        print(a[i][right],end=" ")
+    right-=1
+
+    if top<=bottom:
+        for i in range(right,left-1,-1):
+            print(a[bottom][i],end=" ")
+        bottom-=1
+
+    if left<=right:
+        for i in range(bottom, top-1,-1):
+            print(a[i][left],end=" ")
+        left+=1
+
+
+17)Count Subarray sum Equals K
+
+a=list(map(int,input().split()))
+k=int(input())
+brr={0:1}
+presum=0
+cnt=0
+for i in a:
+    presum+=i
+    if presum-k in brr:
+        cnt+=brr[presum-k]
+    if presum in brr:
+        brr[presum]+=1
+    else:
+        brr[presum]=1
+print(cnt)
