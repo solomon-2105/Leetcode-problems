@@ -8,6 +8,7 @@ brr
 | [0019-remove-nth-node-from-end-of-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
@@ -19,6 +20,7 @@ brr
 | [0019-remove-nth-node-from-end-of-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/solomon-2105/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -50,6 +52,7 @@ brr
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0148-sort-list) |
 | [2887-sort-vowels-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
 |  |
@@ -73,4 +76,12 @@ brr
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
