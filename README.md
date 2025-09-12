@@ -18,6 +18,7 @@ brr
 | [0141-linked-list-cycle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/solomon-2105/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -28,6 +29,7 @@ brr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/solomon-2105/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/solomon-2105/Leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
@@ -40,6 +42,7 @@ brr
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/solomon-2105/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
