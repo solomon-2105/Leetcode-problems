@@ -1,0 +1,96 @@
+1) Delete all occurances of element k in a doubly linked list 
+
+# Node Class
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+        self.prev = None
+
+class Solution:
+    # Function to delete all the occurrences of a key from the linked list.
+    def deleteAllOccurOfX(self, head, x):
+        if head is None:
+            return None
+        
+        current = head
+        while current and current.data == x:
+            head = current.next
+            if head:
+                head.prev = None
+            current = head
+        
+        while current:
+            if current.data == x:
+                if current.prev:
+                    current.prev.next = current.next
+                if current.next:
+                    current.next.prev = current.prev
+            current = current.next
+        return head
+
+
+2) remove duplicates from a sorted dll
+
+# Node Class
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+        self.prev = None
+
+class Solution:
+    # Function to remove duplicates from sorted DLL
+    def removeDuplicates(self, head):
+        if head is None:
+            return None
+        
+        current = head
+        while current and current.next:
+            if current.data == current.next.data:
+                # Skip the duplicate node
+                next_node = current.next.next
+                current.next = next_node
+                if next_node:
+                    next_node.prev = current
+            else:
+                current = current.next
+        
+        return head
+
+
+3) find pairs with given sum in a dll
+
+class Node:
+    def __init__(self, x):
+        self.data = x
+        self.next = None
+        self.prev = None
+
+class Solution:
+    def findPairsWithGivenSum(self, target: int, head: Optional['Node']) -> List[List[int]]:
+        if head is None:
+            return []
+        
+        # Step 1: find the tail of the DLL
+        tail = head
+        while tail.next:
+            tail = tail.next
+        
+        left = head
+        right = tail
+        result = []
+
+        # Step 2: two-pointer approach
+        while left != right and left.prev != right:
+            current_sum = left.data + right.data
+            if current_sum == target:
+                result.append([left.data, right.data])
+                left = left.next
+                right = right.prev
+            elif current_sum < target:
+                left = left.next
+            else:
+                right = right.prev
+        
+        return result
