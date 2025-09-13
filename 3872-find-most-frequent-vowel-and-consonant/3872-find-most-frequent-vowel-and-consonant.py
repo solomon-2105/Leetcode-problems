@@ -1,15 +1,11 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        def is_vowel(char):
-            return char.lower() in 'aeiou'
         a={}
+        b={}
+        c={'a','e','i','o','u'}
         for i in s:
-            if i in a: a[i]+=1
-            else: a[i]=1
-        maxv,maxc=0,0
-        for k,v in a.items():
-            if is_vowel(k):
-                maxv=max(maxv,v)
+            if i in c:
+                a[i]=a.get(i,0)+1
             else:
-                maxc=max(maxc,v)
-        return maxv+maxc
+                b[i]=b.get(i,0)+1
+        return (max(a.values()) if a else 0)+(max(b.values()) if b else 0)
