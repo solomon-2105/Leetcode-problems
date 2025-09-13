@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/solomon-2105/Leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/solomon-2105/Leetcode-problems/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/solomon-2105/Leetcode-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
