@@ -6,17 +6,20 @@
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/solomon-2105/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/solomon-2105/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/solomon-2105/Leetcode-problems/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0090-subsets-ii) |
+| [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,4 +38,16 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0392-is-subsequence) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
