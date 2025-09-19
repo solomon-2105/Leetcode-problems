@@ -7,12 +7,14 @@
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/solomon-2105/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/solomon-2105/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/solomon-2105/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/solomon-2105/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 | [0090-subsets-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomon-2105/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/solomon-2105/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +47,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/solomon-2105/Leetcode-problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/solomon-2105/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -56,4 +60,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomon-2105/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/solomon-2105/Leetcode-problems/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
