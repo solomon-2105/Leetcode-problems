@@ -11,15 +11,18 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/solomon-2105/Leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0611-valid-triangle-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 ## Array
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/solomon-2105/Leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/solomon-2105/Leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
@@ -36,4 +39,5 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
