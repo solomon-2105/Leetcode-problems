@@ -18,11 +18,13 @@
 | [0611-valid-triangle-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/solomon-2105/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/solomon-2105/Leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Geometry
 |  |
 | ------- |
