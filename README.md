@@ -32,8 +32,10 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/solomon-2105/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/solomon-2105/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/solomon-2105/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/solomon-2105/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/solomon-2105/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
