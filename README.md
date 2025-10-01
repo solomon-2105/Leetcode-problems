@@ -17,9 +17,18 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/solomon-2105/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/solomon-2105/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/solomon-2105/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
