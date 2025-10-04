@@ -40,4 +40,16 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/solomon-2105/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/solomon-2105/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
