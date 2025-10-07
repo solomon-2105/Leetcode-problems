@@ -47,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
