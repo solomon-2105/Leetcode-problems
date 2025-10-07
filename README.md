@@ -49,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -57,6 +58,7 @@
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
