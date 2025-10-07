@@ -1,22 +1,14 @@
-import sys
 class Solution:
-    def thirdMax(self, nums):
-        first = -float('inf')
-        second = -float('inf')
-        third = -float('inf')
-
-        for num in nums:
-            if num == first or num == second or num == third:
-                continue
-
-            if num > first:
-                third = second
-                second = first
-                first = num
-            elif num > second:
-                third = second
-                second = num
-            elif num > third:
-                third = num
-
-        return first if third == -float('inf') else third
+    def thirdMax(self, nums: List[int]) -> int:
+        fmax,smax,tmax=float('-inf'),float('-inf'),float('-inf')
+        for i in nums:
+            if i>fmax:
+                tmax=smax
+                smax=fmax
+                fmax=i
+            elif i>smax and i<fmax:
+                tmax=smax
+                smax=i
+            else:
+                tmax=i
+        return fmax if tmax==float('-inf') else tmax
