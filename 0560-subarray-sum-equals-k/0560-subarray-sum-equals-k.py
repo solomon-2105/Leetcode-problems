@@ -1,12 +1,14 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        a={0:-1} 
-        b=0 
-        c=0 
+        a={0:1}
+        summ=0
+        maxi=0
         for i in range(len(nums)):
-            b+=nums[i]
-            if (b-k) in a:
-                c=max(c,i-a[b-k])
-            if b not in a:
-                a[b]=i
-        return c
+            summ+=nums[i]
+            if summ-k in a:
+                maxi+=a[summ-k]
+            if summ in a:
+                a[summ]+=1
+            else:
+                a[summ]=1
+        return maxi
