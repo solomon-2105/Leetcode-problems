@@ -19,6 +19,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -57,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/solomon-2105/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
