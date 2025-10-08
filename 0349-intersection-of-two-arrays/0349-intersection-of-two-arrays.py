@@ -1,22 +1,14 @@
-class Solution(object):
-    def intersection(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: List[int]
-        """
-        # Create a hash set to store unique elements of nums1
-        nums1_set = {}
-        for num in nums1:
-            nums1_set[num] = True
-
-        # List to store the intersection result
-        result = []
-
-        # Iterate over nums2 and check for common elements
-        for num in nums2:
-            if num in nums1_set:
-                result.append(num)
-                del nums1_set[num]  # Avoid duplicates in the result
-
-        return result
+class Solution:
+    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        nums1.sort()
+        nums2.sort()
+        res=[]
+        i,j,x,y=0,0,len(nums1),len(nums2)
+        while i<x and j<y:
+            if nums1[i]==nums2[j] and (len(res)==0 or res[-1]!=nums1[i]):
+                res.append(nums1[i])
+            elif nums1[i]<nums2[j]:
+                i+=1
+            else:
+                j+=1
+        return res
