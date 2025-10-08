@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -60,6 +62,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
@@ -68,10 +71,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
