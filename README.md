@@ -7,6 +7,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/solomon-2105/Leetcode-problems/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
@@ -50,6 +52,7 @@
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -71,12 +74,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/solomon-2105/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
