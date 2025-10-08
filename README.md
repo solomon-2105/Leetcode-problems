@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/solomon-2105/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
@@ -104,6 +106,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
