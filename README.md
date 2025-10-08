@@ -37,6 +37,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/solomon-2105/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
