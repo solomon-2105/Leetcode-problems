@@ -52,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
