@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@
 | [0011-container-with-most-water](https://github.com/solomon-2105/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/solomon-2105/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
