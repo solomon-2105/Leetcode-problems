@@ -27,9 +27,14 @@
 ## Simulation
 |  |
 | ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/solomon-2105/Leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Linked List
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## String
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/solomon-2105/Leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 <!---LeetCode Topics End-->
