@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/solomon-2105/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -27,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3893-generate-tag-for-video-caption](https://github.com/solomon-2105/Leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Linked List
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [3893-generate-tag-for-video-caption](https://github.com/solomon-2105/Leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
