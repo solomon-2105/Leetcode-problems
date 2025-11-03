@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/solomon-2105/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -38,9 +39,18 @@
 ## String
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3893-generate-tag-for-video-caption](https://github.com/solomon-2105/Leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 ## Matrix
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
