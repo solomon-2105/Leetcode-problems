@@ -11,7 +11,8 @@ class Solution:
             else:
                 count-=1
             i+=1
-        b=0
-        for i in nums:
-            if i==el: b+=1
-        return el if b>len(nums)//2 else -1
+        # b=0
+        # for i in nums:
+        #     if i==el: b+=1
+        # return el if b>len(nums)//2 else -1
+        return el
