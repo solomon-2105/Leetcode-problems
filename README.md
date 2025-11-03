@@ -7,6 +7,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
