@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
