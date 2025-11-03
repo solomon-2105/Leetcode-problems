@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -15,12 +16,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/solomon-2105/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
@@ -62,4 +65,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/solomon-2105/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
