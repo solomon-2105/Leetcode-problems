@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/solomon-2105/Leetcode-problems/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/solomon-2105/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1803-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/solomon-2105/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -37,6 +38,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3893-generate-tag-for-video-caption](https://github.com/solomon-2105/Leetcode-problems/tree/master/3893-generate-tag-for-video-caption) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/4051-remove-zeros-in-decimal-representation) |
