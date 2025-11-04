@@ -1,22 +1,15 @@
 class Solution:
     def generate(self, n: int) -> List[List[int]]:
-        #combinatorics
-
-        # grr=[]
-        # for i in range(n):
-        #     res=1
-        #     brr=[1]
-        #     for j in range(1,i+1):
-        #         res*=(i-j+1)
-        #         res//=j
-        #         brr.append(res)
-        #     grr.append(brr)
-        # return grr
-
-
-        #Dynamic programming
-        a=[[1]*(i+1) for i in range(n)]
-        for i in range(2,n):
-            for j in range(1,i):
-                a[i][j]=a[i-1][j-1]+a[i-1][j]
-        return a
+        b=[]
+        for j in range(n):
+            a=[]
+            for i in range(j+1):
+                c=self.factorial(j)//((self.factorial(j-i))*self.factorial(i))
+                a.append(c)
+            b.append(a)
+        return b
+    def factorial(self,x):
+        m=1
+        for i in range(1,x+1):
+            m*=i
+        return m
