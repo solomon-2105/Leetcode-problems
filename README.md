@@ -32,4 +32,16 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/solomon-2105/Leetcode-problems/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/solomon-2105/Leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Greedy
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/solomon-2105/Leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/solomon-2105/Leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
