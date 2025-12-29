@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
