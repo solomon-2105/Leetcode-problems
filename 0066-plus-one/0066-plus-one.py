@@ -1,22 +1,16 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        count = 0
-        carry = 0
+        carry = 1
         n = len(digits)
         for i in range(n - 1 , -1 , -1) :
-            
-            if i == n - 1 :
-                count = digits[i] + 1
-            else : 
-                count = digits[i] + carry
-                
-            if count > 9 : 
-                digits[i] = count % 10
-                carry = count // 10
+            carry += digits[i] 
+            if carry > 9 : 
+                digits[i] = carry % 10
+                carry //= 10
                 if i == 0:
                     digits.insert(0 , carry)
                     break
             else :
-                digits[i] = count % 10
+                digits[i] = carry
                 break
         return digits
