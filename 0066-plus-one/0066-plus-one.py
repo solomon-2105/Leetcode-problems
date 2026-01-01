@@ -6,11 +6,11 @@ class Solution:
             carry += digits[i] 
             if carry > 9 : 
                 digits[i] = carry % 10
-                carry //= 10
-                if i == 0:
-                    digits.insert(0 , carry)
-                    break
+                carry = 1
             else :
                 digits[i] = carry
+                carry=0
                 break
+        if carry == 1 :
+            digits.insert(0 , carry)
         return digits
