@@ -3,14 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        a=len(nums)-1
-        k%=a+1
-        self.reverse(nums,0,a)
+        n = len(nums)
+        k = k % n
+        self.reverse(nums, 0, n-1)
         self.reverse(nums,0,k-1)
-        self.reverse(nums,k,a)
-        
-    def reverse(self,nums,i,j):
-        while i<j:
-            nums[i],nums[j]=nums[j],nums[i]
+        self.reverse(nums,k,n-1)
+
+    def reverse(self, nums, i, j) :
+        while i <= j:
+            nums[i],nums[j] = nums[j],nums[i]
             i+=1
             j-=1
+        
