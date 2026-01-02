@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
