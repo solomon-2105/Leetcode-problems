@@ -1,8 +1,10 @@
 class Solution:
     def sumFourDivisors(self, nums: List[int]) -> int:
         summ = 0
+        b=[]
         for i in range( len(nums) ) :
-            c = self.divisors( nums[i] , [])
+            b.clear()
+            c = self.divisors( nums[i] ,b)
             if len(c) == 4 :
                 summ += sum(c)
         return summ
