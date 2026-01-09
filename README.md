@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -74,4 +75,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
