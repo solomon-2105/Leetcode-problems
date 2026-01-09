@@ -1,15 +1,12 @@
 class Solution:
     def generate(self, n: int) -> List[List[int]]:
-        b=[]
-        for j in range(n):
-            a=[]
-            for i in range(j+1):
-                c=self.factorial(j)//((self.factorial(j-i))*self.factorial(i))
-                a.append(c)
-            b.append(a)
-        return b
-    def factorial(self,x):
-        m=1
-        for i in range(1,x+1):
-            m*=i
-        return m
+        a = []
+        j = 1
+        for i in range(n):
+            b = [1]*j
+            j+=1
+            a.append(b)
+        for i in range(2,n):
+            for j in range(1,len(a[i])-1):
+                a[i][j] = a[i-1][j] + a[i-1][j-1]
+        return a
