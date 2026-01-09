@@ -1,12 +1,12 @@
 class Solution:
     def getRow(self, n: int) -> List[int]:
-        a=[]
+        a = []
+        j = 1
         for i in range(n+1):
-            c=self.factorial(n)//((self.factorial(n-i))*self.factorial(i))
-            a.append(c)
-        return a
-    def factorial(self,x):
-        m=1
-        for i in range(1,x+1):
-            m*=i
-        return m
+            b = [1]*j
+            j+=1
+            a.append(b)
+        for i in range(2,n+1):
+            for j in range(1,len(a[i])-1):
+                a[i][j] = a[i-1][j] + a[i-1][j-1]
+        return a[n]
