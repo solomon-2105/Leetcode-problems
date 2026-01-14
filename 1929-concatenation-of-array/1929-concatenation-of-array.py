@@ -6,4 +6,4 @@ class Solution:
         #     a[i]=nums[i]
         #     a[i+n]=nums[i]
         # return a
-        return nums+nums
+        return nums*2
