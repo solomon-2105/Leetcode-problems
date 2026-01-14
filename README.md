@@ -62,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/3110-score-of-a-string) |
 | [3798-largest-even-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/3798-largest-even-number) |
 ## Union Find
 |  |
