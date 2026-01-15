@@ -1,46 +1,35 @@
 class Solution:
-    def threeSum(self, a: List[int]) -> List[List[int]]:
-        # aaha=set() #bruteforce
-        # for i in range(len(a)):
-        #     for j in range(i+1,len(a)):
-        #         for k in range(j+1,len(a)):
-        #             if a[i]+a[j]+a[k]==0:
-        #                 brr=[a[i],a[j],a[k]]
-        #                 brr.sort()
-        #                 aaha.add(tuple(brr))
-        # d=[list(i) for i in aaha]
-        # return d
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # a = set()
+        # for i in range(len(nums)):
+        #     brr = set()
+        #     for j in range(i+1,len(nums)):
+        #         k = -1 * (nums[i]+nums[j])
+        #         if k in brr:
+        #             tri = tuple(sorted([nums[i],nums[j],k]))
+        #             a.add(tri)
+        #         brr.add(nums[j])    
+        # return [list(i) for i in a]
 
-        #better
-        # drr=set()
-        # for i in range(len(a)):
-        #     brr=set()
-        #     for j in range(i+1,len(a)):
-        #         grr=-(a[i]+a[j])
-        #         if grr in brr:
-        #             drr.add(tuple(sorted([a[i],a[j],grr])))
-        #         brr.add(a[j])
-        # crr=[list(i) for i in drr]
-        # return crr
+        nums.sort()
+        ans = []
+        for i in range(len(nums)):
+            if i>0 and nums[i]==nums[i-1]:
+                continue
+            left , right = i+1 , len(nums)-1
+            while left < right:
+                temp = nums[i] + nums[left] + nums[right]
+                if temp == 0:
+                    ans.append([nums[i],nums[right],nums[left]])
+                    left+=1
+                    right-=1 
 
-        #two pointers (optimal)
-        brr=list()
-        a.sort()
-        for i in range(len(a)):
-            if i>0 and a[i]==a[i-1]: continue
-            j=i+1
-            k=len(a)-1
-            while j<k:
-                summ=a[i]+a[j]+a[k]
-                if summ<0:
-                    j+=1
-                elif summ>0:
-                    k-=1
+                    while left<right and nums[left]==nums[left-1]:
+                        left+=1
+                    while left<right and nums[right]==nums[right+1]:
+                        right-=1
+                elif temp>0:
+                    right-=1
                 else:
-                    ass=[a[i],a[j],a[k]]
-                    brr.append(ass)
-                    j+=1
-                    k-=1
-                    while j<k and a[j]==a[j-1]: j+=1
-                    while j<k and a[k]==a[k+1]: k-=1
-        return brr
+                    left+=1
+        return ans
