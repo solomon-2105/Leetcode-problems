@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Stack
@@ -78,4 +80,12 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
