@@ -1,10 +1,10 @@
 class Solution:
-    def merge(self, arr: List[List[int]]) -> List[List[int]]:
-        arr.sort(key=lambda x:x[0])
-        res=[]
-        for s,e in arr:
-            if not res or s>res[-1][1]:
-                res.append([s,e])
+    def merge(self, a: List[List[int]]) -> List[List[int]]:
+        a.sort(key = lambda x : x[0])
+        temp = []
+        for i,j in a:
+            if not temp or temp[-1][1]<i:
+                temp.append([i,j])      
             else:
-                res[-1][1]=max(res[-1][1],e)
-        return res
+                temp[-1][1] = max(temp[-1][1] , j)
+        return temp
