@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/solomon-2105/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/solomon-2105/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/solomon-2105/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +93,7 @@
 | [0015-3sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/solomon-2105/Leetcode-problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
