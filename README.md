@@ -24,6 +24,7 @@
 | [1390-four-divisors](https://github.com/solomon-2105/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/solomon-2105/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
@@ -31,6 +32,7 @@
 | [0066-plus-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0189-rotate-array) |
 | [1390-four-divisors](https://github.com/solomon-2105/Leetcode-problems/tree/master/1390-four-divisors) |
+| [2965-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -40,6 +42,7 @@
 | [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
