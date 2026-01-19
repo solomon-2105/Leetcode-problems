@@ -18,6 +18,7 @@
 | [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/solomon-2105/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/solomon-2105/Leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +105,24 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/solomon-2105/Leetcode-problems/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
