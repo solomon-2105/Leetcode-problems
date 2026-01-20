@@ -20,6 +20,7 @@
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/solomon-2105/Leetcode-problems/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/solomon-2105/Leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/solomon-2105/Leetcode-problems/tree/master/1390-four-divisors) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/solomon-2105/Leetcode-problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
