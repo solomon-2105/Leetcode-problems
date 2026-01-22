@@ -28,6 +28,7 @@
 | [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/solomon-2105/Leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0496-next-greater-element-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/solomon-2105/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +130,17 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/solomon-2105/Leetcode-problems/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/solomon-2105/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
