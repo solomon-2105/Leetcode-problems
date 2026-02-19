@@ -1,15 +1,25 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        sum=0
-        maxi=float('-inf')
-        # start_subarray,end_subarray=-1,-1
-        # start=0
+        # current_sum keeps track of the running sum of the current subarray.
+        # max_sum stores the largest sum found so far.
+        
+        current_sum = 0
+        max_sum = float('-inf')
+        
         for i in range(len(nums)):
-            sum+=nums[i]
-            if sum>maxi:
-                maxi=sum
-                # start_subarray,end_subarray=start,i
-            if sum<0:
-                sum=0
-                # start=i+1
-        return maxi
+            # Add current number to the running sum.
+            current_sum += nums[i]
+            
+            # If current running sum is greater than max_sum,
+            # update max_sum.
+            if current_sum > max_sum:
+                max_sum = current_sum
+            
+            # If running sum becomes negative,
+            # reset it to 0 because a negative sum
+            # will only reduce future subarray sums.
+            if current_sum < 0:
+                current_sum = 0
+        
+        # max_sum is the maximum subarray sum.
+        return max_sum
