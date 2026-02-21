@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/0761-special-binary-string) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
