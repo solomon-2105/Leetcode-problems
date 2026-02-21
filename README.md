@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
