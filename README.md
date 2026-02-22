@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/solomon-2105/Leetcode-problems/tree/master/0868-binary-gap) |
 | [3827-count-monobit-integers](https://github.com/solomon-2105/Leetcode-problems/tree/master/3827-count-monobit-integers) |
 ## Enumeration
 |  |
