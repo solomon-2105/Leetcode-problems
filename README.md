@@ -7,6 +7,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
