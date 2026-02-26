@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/solomon-2105/Leetcode-problems/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/solomon-2105/Leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3827-count-monobit-integers](https://github.com/solomon-2105/Leetcode-problems/tree/master/3827-count-monobit-integers) |
 ## Enumeration
@@ -65,6 +67,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
 ## Prefix Sum
 |  |
