@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/solomon-2105/Leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/solomon-2105/Leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/solomon-2105/Leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/solomon-2105/Leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3827-count-monobit-integers](https://github.com/solomon-2105/Leetcode-problems/tree/master/3827-count-monobit-integers) |
 ## Enumeration
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/solomon-2105/Leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
 ## Prefix Sum
 |  |
