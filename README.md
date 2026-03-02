@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomon-2105/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/solomon-2105/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomon-2105/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/solomon-2105/Leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomon-2105/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2396-strictly-palindromic-number](https://github.com/solomon-2105/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomon-2105/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
