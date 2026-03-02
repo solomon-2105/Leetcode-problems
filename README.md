@@ -12,6 +12,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/solomon-2105/Leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
@@ -27,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/solomon-2105/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/solomon-2105/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Rolling Hash
 |  |
 | ------- |
