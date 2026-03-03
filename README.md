@@ -42,6 +42,7 @@
 | [0761-special-binary-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/solomon-2105/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Divide and Conquer
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/solomon-2105/Leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/solomon-2105/Leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
 ## Prefix Sum
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomon-2105/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/solomon-2105/Leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
