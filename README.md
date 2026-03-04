@@ -15,6 +15,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/solomon-2105/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/solomon-2105/Leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/solomon-2105/Leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1701-average-waiting-time](https://github.com/solomon-2105/Leetcode-problems/tree/master/1701-average-waiting-time) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/solomon-2105/Leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/solomon-2105/Leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
