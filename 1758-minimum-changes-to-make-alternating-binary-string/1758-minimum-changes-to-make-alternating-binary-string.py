@@ -1,11 +1,11 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        start_with_zero = start_with_one = 0
+        start_with_zero = 0
         for i in range(len(s)):
             if (i % 2 == 0 and s[i] == '1') or (i % 2 == 1 and s[i] == '0'):
                 start_with_zero += 1
         # for i in range(len(s)):
         #     if (i % 2 == 0 and s[i] == '0') or (i % 2 == 1 and s[i] == '1'):
         #         start_with_one += 1
-        start_with_one = len(s) - start_with_zero
-        return min(start_with_zero , start_with_one)
+        # start_with_one = len(s) - start_with_zero
+        return min(start_with_zero , len(s) - start_with_zero)
